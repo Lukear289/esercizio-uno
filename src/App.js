@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <ButtonComponent nome="clicca" />
         <p>Primo esercizio react</p>
-        <ImageComponent srcphoto="https://placedog.net/200" />
+        <ImageComponent srcphoto="https://placedog.net/200" alt="photo" />
         <ButtonComponent nome="cliccami" />
       </header>
     </div>
